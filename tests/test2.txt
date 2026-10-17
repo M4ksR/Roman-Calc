@@ -1,0 +1,22 @@
+I II +
+II III *
+III II -
+X III /
+V II + IV -
+IV VI * VIII /
+I II + IV * III +
+CC XX *
+CCC IX +
+MM CD XX I + + +
+I II + III + IV + V + VI + VII + VIII + IX + X + XI + XII + XIII + XIV + XV + XVI + XVII + XVIII + XIX + XX + XXI + XXII + XXIII + XXIV + XXV + XXVI + XXVII + XXVIII + XXIX + XXX +
+I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX XXI XXII XXIII XXIV XXV XXVI XXVII XXVIII XXIX XXX + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+I II * III * IV * V * VI *
+I II III IV V VI * * * * *
+I II * III * IV * V * VI * VII *
+XXXII XXXIV + XLV - CCXXXIV +
+XII XXIV + CI *
+XII XXIV CI + *
+XII XXIV CI * +
+XXVIII II I VII + * -
+XXXII XII * CDVIII + XVI /
+DCCXX VI / V / IV / III / II / I /

@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test1.txt out.txt && cmp out.txt tests/test1-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test2.txt out.txt && cmp out.txt tests/test2-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 3",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test3.txt out.txt && cmp out.txt tests/test3-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 4",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test4.txt out.txt && cmp out.txt tests/test4-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 5",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test5.txt out.txt && cmp out.txt tests/test5-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 6",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test6.txt out.txt && cmp out.txt tests/test6-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 7",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test7.txt out.txt && cmp out.txt tests/test7-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 8",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test8.txt out.txt && cmp out.txt tests/test8-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 9",
+      "setup": "",
+      "run": "timeout 1 ./romancalc tests/test9.txt out.txt && cmp out.txt tests/test9-out.txt",
+      "input": "",
+      "output": "",
+      "comparison": "include",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
